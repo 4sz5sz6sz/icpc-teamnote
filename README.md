@@ -1,6 +1,8 @@
 Latest version: [main.pdf](https://github.com/4sz5sz6sz/icpc-teamnote/blob/main/main.pdf)
 
-# ICPC 팀노트/
+---
+
+# ICPC 팀노트
 
 프로그래밍 대회용 알고리즘 참고 자료입니다.
 
