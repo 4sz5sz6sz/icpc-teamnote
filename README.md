@@ -1,4 +1,4 @@
-Latest version: [main.pdf](https://github.com/4sz5sz6sz/icpc-teamnote/blob/main/main.pdf)
+
 
 ---
 
@@ -7,6 +7,8 @@ Latest version: [main.pdf](https://github.com/4sz5sz6sz/icpc-teamnote/blob/main/
 프로그래밍 대회용 알고리즘 참고 자료입니다.
 
 이 팀노트는 ICPC와 각종 프로그래밍 대회 참가를 위해 제작되었으며, 실제 대회에서 활용했던 코드들을 정리한 것입니다.
+
+Latest version: [main.pdf](https://github.com/4sz5sz6sz/icpc-teamnote/blob/main/main.pdf)
 
 ### 빌드 방법
 
